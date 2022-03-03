@@ -22,7 +22,7 @@
     "actor": "Daniel Radcliffe",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/harry.jpg"
+    "image": "https://i.imgur.com/oOlbKGN.png"
   },
   {
     "name": "Hermione Granger",
@@ -47,7 +47,7 @@
     "actor": "Emma Watson",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
+    "image": "https://i.imgur.com/LIj26x7.png"
   },
   {
     "name": "Ron Weasley",
@@ -72,7 +72,7 @@
     "actor": "Rupert Grint",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/ron.jpg"
+    "image": "https://i.imgur.com/W08YCGy.png"
   },
   {
     "name": "Draco Malfoy",
@@ -97,7 +97,7 @@
     "actor": "Tom Felton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/draco.jpg"
+    "image": "https://i.imgur.com/q80n3cl.png"
   },
   {
     "name": "Minerva McGonagall",
@@ -122,7 +122,7 @@
     "actor": "Dame Maggie Smith",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
+    "image": "https://i.imgur.com/gWJAvtj.png"
   },
   {
     "name": "Cedric Diggory",
@@ -147,7 +147,7 @@
     "actor": "Robert Pattinson",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/cedric.png"
+    "image": "https://i.imgur.com/ryF0fef.png"
   },
   {
     "name": "Cho Chang",
@@ -172,7 +172,7 @@
     "actor": "Katie Leung",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/cho.jpg"
+    "image": "https://i.imgur.com/QU9Fjvu.png"
   },
   {
     "name": "Severus Snape",
@@ -197,7 +197,7 @@
     "actor": "Alan Rickman",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/snape.jpg"
+    "image": "https://i.imgur.com/7ySRgV7.png"
   },
   {
     "name": "Rubeus Hagrid",
@@ -222,7 +222,7 @@
     "actor": "Robbie Coltrane",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/hagrid.png"
+    "image": "https://i.imgur.com/jU6Ytn4.png"
   },
   {
     "name": "Neville Longbottom",
@@ -247,7 +247,7 @@
     "actor": "Matthew Lewis",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/neville.jpg"
+    "image": "https://i.imgur.com/0eh4gcy.png"
   },
   {
     "name": "Luna Lovegood",
@@ -272,7 +272,7 @@
     "actor": "Evanna Lynch",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/luna.jpg"
+    "image": "https://i.imgur.com/Zl2MAWY.png"
   },
   {
     "name": "Ginny Weasley",
@@ -297,7 +297,7 @@
     "actor": "Bonnie Wright",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
+    "image": "https://i.imgur.com/k1aQNBx.png"
   },
   {
     "name": "Sirius Black",
@@ -322,7 +322,7 @@
     "actor": "Gary Oldman",
     "alternate_actors": ["James Walters", "Rohan Gotobed"],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
+    "image": "https://i.imgur.com/1HRsTXM.png"
   },
   {
     "name": "Remus Lupin",
@@ -347,7 +347,7 @@
     "actor": "David Thewlis",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
+    "image": "https://i.imgur.com/jffIEkD.png"
   },
   {
     "name": "Arthur Weasley",
@@ -372,7 +372,7 @@
     "actor": "Mark Williams",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
+    "image": "https://i.imgur.com/okMQmz6.png"
   },
   {
     "name": "Bellatrix Lestrange",
@@ -397,7 +397,7 @@
     "actor": "Helena Bonham Carter",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
+    "image": "https://i.imgur.com/FTgNxSh.png"
   },
   {
     "name": "Lord Voldemort",
@@ -422,7 +422,7 @@
     "actor": "Ralph Fiennes",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
+    "image": "https://i.imgur.com/u2ZSA2t.png"
   },
   {
     "name": "Horace Slughorn",
@@ -447,7 +447,7 @@
     "actor": "Jim Broadbent",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+    "image": "https://i.imgur.com/ty8SK99.png"
   },
   {
     "name": "Kingsley Shacklebolt",
@@ -472,7 +472,7 @@
     "actor": "George Harris",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
+    "image": "https://i.imgur.com/7lFX33C.png"
   },
   {
     "name": "Dolores Umbridge",
@@ -497,7 +497,7 @@
     "actor": "Imelda Staunton",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
+    "image": "https://i.imgur.com/04SN2UT.png"
   },
   {
     "name": "Lucius Malfoy",
