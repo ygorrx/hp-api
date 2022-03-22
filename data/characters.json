@@ -522,7 +522,7 @@
     "actor": "Jason Isaacs",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
+    "image": "https://i.imgur.com/kbvVWVE.png"
   },
   {
     "name": "Vincent Crabbe",
@@ -547,7 +547,7 @@
     "actor": "Jamie Waylett",
     "alternate_actors": [],
     "alive": false,
-    "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
+    "image": "https://i.imgur.com/d6sxBrP.png"
   },
   {
     "name": "Gregory Goyle",
@@ -572,7 +572,7 @@
     "actor": "Josh Herdman",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
+    "image": "https://i.imgur.com/FTEWkYK.png"
   },
   {
     "name": "Mrs Norris",
@@ -597,7 +597,7 @@
     "actor": "Maxime, Alanis and Tommy the cats",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/norris.JPG"
+    "image": "https://i.imgur.com/GzZKEXb.png"
   },
   {
     "name": "Argus Filch",
@@ -622,7 +622,7 @@
     "actor": "David Bradley",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://hp-api.herokuapp.com/images/filch.jpg"
+    "image": "https://i.imgur.com/EtK3doa.png"
   },
   {
     "name": "Vernon Dursley",
@@ -647,7 +647,7 @@
     "actor": "Richard Griffiths",
     "alternate_actors": [],
     "alive": true,
-    "image": "http://ocdn.eu/images/pulscms/Zjc7MDA_/386aa935e5b36bd6a2d60b4176f89f05.jpeg"
+    "image": "https://i.imgur.com/vI2FjBU.png"
   },
   {
     "name": "Petunia Dursley",
@@ -672,7 +672,7 @@
     "actor": "Fiona Shaw",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://i.pinimg.com/originals/19/03/b7/1903b71ce7fd0c1f62c33260cf6f9484.jpg"
+    "image": "https://i.imgur.com/TQHtJ2w.png"
   },
   {
     "name": "Dudley Dursley",
@@ -697,7 +697,7 @@
     "actor": "Harry Melling",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://i.pinimg.com/originals/f5/53/14/f553142af31f877f6735c205388c5117.jpg"
+    "image": "https://i.imgur.com/LG7kh8t.png"
   },
   {
     "name": "Lily Potter",
@@ -722,7 +722,7 @@
     "actor": "Geraldine Somerville",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotterfanfiction/images/d/d8/Lily_Snape_II_.png/revision/latest?cb=20161206025751"
+    "image": "https://i.imgur.com/6bAQZLT.png"
   },
   {
     "name": "James Potter",
@@ -747,7 +747,7 @@
     "actor": "Adrian Rawlins",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/bf/James_1998.jpg/revision/latest?cb=20121230175408&path-prefix=pt-br"
+    "image": "https://i.imgur.com/WEmCpiv.png"
   },
   {
     "name": "Albus Dumbledore",
@@ -772,7 +772,7 @@
     "actor": "Richard Harris",
     "alternate_actors": ["Michael Gambon"],
     "alive": false,
-    "image": "http://pm1.narvii.com/6885/9df47087ebd9a57d23a6cbdc47fc2b7e88b6b166r1-500-500v2_00.jpg"
+    "image": "https://i.imgur.com/tuwMU0B.png"
   },
   {
     "name": "Madam Pomfrey",
@@ -797,7 +797,7 @@
     "actor": "Gemma Jones",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://i.pinimg.com/originals/b7/82/2b/b7822b4624f6c383487b6ea9344df4bb.jpg"
+    "image": "https://i.imgur.com/PFrW43E.png"
   },
   {
     "name": "Mrs Figg",
@@ -822,12 +822,12 @@
     "actor": "Kathryn Hunter",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/9/96/Arabella_Dora_Figg.jpg/revision/latest/top-crop/width/360/height/450?cb=20161006175221&path-prefix=pt-br"
+    "image": "https://i.imgur.com/fBIvnEi.png"
   },
  
  
   {
-    "name": "Quirinus Quirrel",
+    "name": "Quirinus Quirrell",
     "alternate_names": ["Professor Quirrel"],
     "species": "human",
     "gender": "male",
@@ -849,7 +849,7 @@
     "actor": "Ian Hart",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d2/Quirinus_Quirrell_PS_promo.jpg/revision/latest?cb=20110806132643"
+    "image": "https://i.imgur.com/EJRW4MD.png"
   },
   {
     "name": "Griphook",
@@ -874,7 +874,7 @@
     "actor": "Verne Troyer",
     "alternate_actors": ["Warwick Davis"],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/53/Griphook_TDH_SF.png/revision/latest?cb=20161215062124"
+    "image": "https://i.imgur.com/oxLRjwT.png"
   },
   {
     "name": "Garrick Ollivander",
@@ -899,7 +899,7 @@
     "actor": "John Hurt",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/52/Olivaras.jpg/revision/latest/scale-to-width-down/600?cb=20160423182522&path-prefix=pt-br"
+    "image": "https://i.imgur.com/RKZd3TB.png"
   },
   {
     "name": "Hedwig",
@@ -932,7 +932,7 @@
       "Bandit"
     ],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Hedwig_Snowy_Owl_PM.png/revision/latest/top-crop/width/360/height/360?cb=20161123234010"
+    "image": "https://i.imgur.com/oSVdHzr.png"
   },
   {
     "name": "Molly Weasley",
@@ -957,7 +957,7 @@
     "actor": "Julie Walters",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d8/Molly-weasley-half-blood-prince-portrait-2-1050x0-c-default.jpg/revision/latest/top-crop/width/360/height/450?cb=20210326203047&path-prefix=pt-br"
+    "image": "https://i.imgur.com/7eYJwqp.png"
   },
   {
     "name": "Percy Weasley",
@@ -982,7 +982,7 @@
     "actor": "Chris Rankin",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b1/Peciee.png/revision/latest?cb=20160827044447&path-prefix=pt-br"
+    "image": "https://i.imgur.com/bqpIIl4.png"
   },
   {
     "name": "Fred Weasley",
@@ -1007,7 +1007,7 @@
     "actor": "James Phelps",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/9/90/Fred_HS_TDH_promo.jpg/revision/latest?cb=20161119235258"
+    "image": "https://i.imgur.com/KLCyQpY.png"
   },
   {
     "name": "George Weasley",
@@ -1032,7 +1032,7 @@
     "actor": "Oliver Phelps",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2a/DH_promo_front_closeup_George_Weasley.jpg/revision/latest?cb=20161119235305"
+    "image": "https://i.imgur.com/hHty12p.png"
   },
   {
     "name": "Lee Jordan",
@@ -1057,7 +1057,7 @@
     "actor": "Luke Youngblood",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/heroes-and-villain/images/a/ad/Lee_Jordan.png/revision/latest?cb=20200602170440"
+    "image": "https://i.imgur.com/apFammz.png"
   },
   {
     "name": "Bill Weasley",
@@ -1082,7 +1082,7 @@
     "actor": "Richard Fish",
     "alternate_actors": ["Domhnall Gleeson"],
     "alive": true,
-    "image": "https://pm1.narvii.com/6411/c062e35806aea4e5c9458c24a9ea5b9efb2e8689_hq.jpg"
+    "image": "https://i.imgur.com/PGhnK6E.png"
   },
   
   {
@@ -1108,7 +1108,7 @@
     "actor": "Simon Fisher-Becker",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ea/Fat_Friar_Profile.png/revision/latest?cb=20160409230657"
+    "image": "https://i.imgur.com/Vs8e2QT.png"
   },
   
   {
@@ -1134,7 +1134,7 @@
     "actor": "Charlotte Skeoch",
     "alternate_actors": ["Louisa Warren"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b7/Harry-potter-goblet-of-fire-hannah.jpg/revision/latest?cb=20170731215859"
+    "image": "https://i.imgur.com/aNjBg8u.png"
   },
   {
     "name": "Susan Bones",
@@ -1159,7 +1159,7 @@
     "actor": "Eleanor Columbus",
     "alternate_actors": ["Emma Jayne-Corboz"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/d/dd/OPIKHMc.png/revision/latest?cb=20210107162257&path-prefix=pt-br"
+    "image": "https://i.imgur.com/xkAHACt.png"
   },
   
   {
@@ -1185,7 +1185,7 @@
     "actor": "Kathleen Cauley",
     "alternate_actors": ["Jennifer Smith", "Jessie Cave"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b6/Lavender_Brown_HBP.jpg/revision/latest?cb=20180203062638"
+    "image": "https://i.imgur.com/quX3vGz.png"
   },
   
   {
@@ -1211,7 +1211,7 @@
     "actor": "Edward Randell",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c4/Justin_Finch-Fletchley.jpg/revision/latest?cb=20150502110505&path-prefix=pt-br"
+    "image": "https://i.imgur.com/E3Na8G1.png"
   },
   {
     "name": "Seamus Finnigan",
@@ -1236,7 +1236,7 @@
     "actor": "Devon Murray",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/81/Seamus-finnigan-prisoner-of-azkaban-portrait.jpg/revision/latest?cb=20210103212642&path-prefix=pt-br"
+    "image": "https://i.imgur.com/gBxoyhe.png"
   },
   
   {
@@ -1262,7 +1262,7 @@
     "actor": "Genevieve Gaunt",
     "alternate_actors": ["Lauren Shotton", "Scarlett Byrne"],
     "alive": true,
-    "image": "https://i.pinimg.com/originals/78/30/09/78300977f340d6599adfbb15a1c6b388.png"
+    "image": "https://i.imgur.com/cn43Q5s.png"
   },
   {
     "name": "Parvati Patil",
@@ -1287,7 +1287,7 @@
     "actor": "Sitara Shah",
     "alternate_actors": ["Shefali Chowdhury"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/ce/950749d37b.jpg/revision/latest/top-crop/width/360/height/450?cb=20210315001745&path-prefix=pt-br"
+    "image": "https://i.imgur.com/QNA7m0g.png"
   },
   {
     "name": "Padma Patil",
@@ -1312,7 +1312,7 @@
     "actor": "Sharon Sandhu",
     "alternate_actors": ["Afshan Azad"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/3/32/Padmapatildh.png/revision/latest?cb=20210106232131&path-prefix=pt-br"
+    "image": "https://i.imgur.com/AaPcWl2.png"
   },
   
   {
@@ -1338,7 +1338,7 @@
     "actor": "Louis Cordice",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/59/Blaise_Zabini.png/revision/latest?cb=20201124022520&path-prefix=pt-br"
+    "image": "https://i.imgur.com/a9aSoF6.png"
   },
   {
     "name": "Nearly Headless Nick",
@@ -1367,7 +1367,7 @@
     "actor": "John Cleese",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://pm1.narvii.com/6287/0202a693d79177bca87e18e1448be0fc2ac729ac_hq.jpg"
+    "image": "https://i.imgur.com/mu0lo7A.png"
   },
   {
     "name": "Bloody Baron",
@@ -1392,7 +1392,7 @@
     "actor": "Terence Bayler",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/55/Bloody_Baron.jpg/revision/latest?cb=20100408172210"
+    "image": "https://i.imgur.com/Js55ANo.png"
   },
   
   {
@@ -1418,7 +1418,7 @@
     "actor": "Miriam Margolyes",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/7/7a/3005585-3885376406-latest.jpg/revision/latest?cb=20201204185500&path-prefix=pt-br"
+    "image": "https://i.imgur.com/RQVlOHS.png"
   },
   
   {
@@ -1444,7 +1444,7 @@
     "actor": "Warwick Davis",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://pm1.narvii.com/6431/f0aab8ca3bc219770046b5c2c5d03c03226b5e4c_hq.jpg"
+    "image": "https://i.imgur.com/ZyRPR9z.png"
   },
   
   {
@@ -1452,7 +1452,7 @@
     "alternate_names": [],
     "species": "human",
     "gender": "male",
-    "house": "",
+    "house": "Gryffindor",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -1470,7 +1470,7 @@
     "actor": "Sean Biggerstaff",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/f/f7/Oliver-wood-deathly-hallows-portrait.jpg/revision/latest/top-crop/width/360/height/450?cb=20210605025138&path-prefix=pt-br"
+    "image": "https://i.imgur.com/YRo6HFa.png"
   },
   
   {
@@ -1496,7 +1496,7 @@
     "actor": "Danielle Tabor",
     "alternate_actors": ["Tiana Benjamin"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/2/24/GOF_promo_Angelina_Johnson.jpg/revision/latest/top-crop/width/360/height/450?cb=20200929173904&path-prefix=pt-br"
+    "image": "https://i.imgur.com/GYGFe2k.png"
   },
   {
     "name": "Marcus Flint",
@@ -1521,10 +1521,10 @@
     "actor": "Jamie Yeates",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/80/Monmarcus.jpg/revision/latest?cb=20100327164729"
+    "image": "https://i.imgur.com/5Ow8Joi.png"
   },
   {
-    "name": "Alicia Spinet",
+    "name": "Alicia Spinnet",
     "alternate_names": [],
     "species": "human",
     "gender": "female",
@@ -1546,7 +1546,7 @@
     "actor": "Leilah Sutherland",
     "alternate_actors": ["Rochelle Douglas"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8b/Img-thing.jpg/revision/latest?cb=20130626203835&path-prefix=de"
+    "image": "https://i.imgur.com/ueqilbl.png"
   },
   {
     "name": "Katie Bell",
@@ -1571,7 +1571,7 @@
     "actor": "Emily Dale",
     "alternate_actors": ["Georgina Leonidas"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/3/32/Katie_Bell_infobox.jpg/revision/latest?cb=20170118053940"
+    "image": "https://i.imgur.com/RGdOj7L.png"
   },
   {
     "name": "Adrian Pucey",
@@ -1596,7 +1596,7 @@
     "actor": "Scot Fearn",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://i.pinimg.com/originals/66/bd/b9/66bdb93b0d5fca2979437513d21cff0e.png"
+    "image": "https://i.imgur.com/nZcjGkj.png"
   },
   
   {
@@ -1604,7 +1604,7 @@
     "alternate_names": [],
     "species": "human",
     "gender": "male",
-    "house": "",
+    "house": "Unknown",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -1622,7 +1622,7 @@
     "actor": "Jamie Campbell Bower",
     "alternate_actors": ["Michael Byrne", "Johnny Depp", "Mads Mikkelsen"],
     "alive": false,
-    "image": "https://qph.fs.quoracdn.net/main-qimg-ae216ade3dc176b8eb9b3bcc1e2fcd5e.webp"
+    "image": "https://i.imgur.com/Cb5YT6n.png"
   },
   {
     "name": "Dobby",
@@ -1647,14 +1647,14 @@
     "actor": "Toby Jones",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/52/Dobby_HP2.jpg.jpg/revision/latest?cb=20160824222843&path-prefix=pt-br"
+    "image": "https://i.imgur.com/u2tyCff.png"
   },
   {
     "name": "Gilderoy Lockhart",
     "alternate_names": ["Professor Lockhart"],
     "species": "human",
     "gender": "male",
-    "house": "",
+    "house": "Unknown",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -1672,7 +1672,7 @@
     "actor": "Kenneth Branagh",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/6/66/LockhartCos.PNG/revision/latest?cb=20150124044614&path-prefix=pt-br"
+    "image": "https://i.imgur.com/2rSZNAf.png"
   },
   {
     "name": "Mundungus Fletcher",
@@ -1697,7 +1697,7 @@
     "actor": "Andy Linden",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e8/Mundungo.jpg/revision/latest?cb=20160926212821&path-prefix=pt-br"
+    "image": "https://i.imgur.com/MJ8lvtj.png"
   },
   {
     "name": "Colin Creevey",
@@ -1722,7 +1722,7 @@
     "actor": "Hugh Mitchell",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5d/Colinnn.jpg/revision/latest/top-crop/width/360/height/450?cb=20150502122243&path-prefix=pt-br"
+    "image": "https://i.imgur.com/FgCr2qt.png"
   },
   
   {
@@ -1748,7 +1748,7 @@
     "actor": "Shirley Henderson",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/b/b8/Myrtle_Warren_profile.png/revision/latest?cb=20170113020338"
+    "image": "https://i.imgur.com/HYHxUNf.png"
   },
   
   {
@@ -1774,7 +1774,7 @@
     "actor": "Louis Doyle",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://i.pinimg.com/originals/77/ea/20/77ea2000fe024c130c835dbcb7913b18.jpg"
+    "image": "https://i.imgur.com/ccVlCny.png"
   },
    
   {
@@ -1800,7 +1800,7 @@
     "actor": "Robert Hardy",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d7/Cornelius_Fudge.jpg/revision/latest/top-crop/width/360/height/450?cb=20161012135334&path-prefix=pt-br"
+    "image": "https://i.imgur.com/WcFfCvF.png"
   },
   
   {
@@ -1826,7 +1826,7 @@
     "actor": "Emma Thompson",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/0/02/Sybill-trelawney-prisoner-of-azkaban-portrait.jpg/revision/latest?cb=20210308170924&path-prefix=pt-br"
+    "image": "https://i.imgur.com/BVNoVA1.png"
   },
   
   {
@@ -1852,7 +1852,7 @@
     "actor": "Timothy Spall",
     "alternate_actors": ["Charles Hughes"],
     "alive": false,
-    "image": "https://i.pinimg.com/550x/40/77/a8/4077a876c0755dc20a48d589aa872117.jpg"
+    "image": "https://i.imgur.com/ERKfO2t.png"
   },
   
   {
@@ -1878,7 +1878,7 @@
     "actor": "Brendan Gleeson",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/a/a1/Alastor_Moody_Profile.jpg/revision/latest/top-crop/width/360/height/450?cb=20130113191751&path-prefix=pt-br"
+    "image": "https://i.imgur.com/jRsX6hz.png"
   },
   
   {
@@ -1886,7 +1886,7 @@
     "alternate_names": [],
     "species": "human",
     "gender": "female",
-    "house": "",
+    "house": "Unknown",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -1904,7 +1904,7 @@
     "actor": "Miranda Richardson",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://3.bp.blogspot.com/_syquA7AjRJs/SgSnJB6c3zI/AAAAAAAACxM/i7jeS8ZVnAI/w1200-h630-p-k-no-nu/Rita_Skeeter-HP4"
+    "image": "https://i.imgur.com/YaQB9UO.png"
   },
  
   {
@@ -1930,7 +1930,7 @@
     "actor": "Natalia Tena",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1c/Nymphadora-tonks-order-of-the-phoenix-portrait-1.jpg/revision/latest?cb=20201130001333&path-prefix=pt-br"
+    "image": "https://i.imgur.com/bTjoYXm.png"
   },
   
   {
@@ -1956,7 +1956,7 @@
     "actor": "Jim McManus",
     "alternate_actors": ["Ciarán Hinds"],
     "alive": true,
-    "image": "https://pbs.twimg.com/profile_images/1158668819046555648/3eonPeXp_400x400.jpg"
+    "image": "https://i.imgur.com/utC9cY4.png"
   },
   {
     "name": "Fenrir Greyback",
@@ -1981,7 +1981,7 @@
     "actor": "Dave Legeno",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/4/4d/Fenrirgreyback.png/revision/latest?cb=20161008105754&path-prefix=pt-br"
+    "image": "https://i.imgur.com/50GYLBP.png"
   },
   
   {
@@ -2007,7 +2007,7 @@
     "actor": "Freddie Stroma",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/5/58/Cormac_McLaggen_HBPF.jpg/revision/latest/top-crop/width/360/height/360?cb=20110224235356"
+    "image": "https://i.imgur.com/kVEIhVw.png"
   },
   
   {
@@ -2033,6 +2033,6 @@
     "actor": "Rhys Ifans",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/8/8d/Xenophilius-lovegood-gallery.jpg/revision/latest/scale-to-width-down/470?cb=20150513190905&path-prefix=pt-br"
+    "image": "https://i.imgur.com/B3k8251.png"
   } 
 ]
